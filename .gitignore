@@ -8,3 +8,19 @@ socketio-example/.project
 redis-example/.project
 
 h2-example/.project
+
+*.prefs
+
+code-snippets/.classpath
+
+.project
+
+h2-example/.classpath
+
+redis-example/.classpath
+
+socketio-example/.classpath
+
+zk-example/.classpath
+
+/*/target/*
