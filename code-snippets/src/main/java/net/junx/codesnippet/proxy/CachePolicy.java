@@ -5,7 +5,7 @@
  * @Date         : Dec 12, 201612:47:46 AM
  * @Author       : junX (junxspace@hotmail.com)
  */
-package net.junx.codesnippets;
+package net.junx.codesnippet.proxy;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

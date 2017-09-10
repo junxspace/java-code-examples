@@ -5,7 +5,7 @@
  * @Date : Nov 10, 20167:39:51 PM
  * @Author : junX (junxspace@hotmail.com)
  */
-package net.junx.codesnippets;
+package net.junx.codesnippet.io;
 
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -1,3 +1,4 @@
+package net.junx.codesnippet.cache;
 //package net.junx.codesnippets.cache;
 //
 //import java.lang.reflect.Method;

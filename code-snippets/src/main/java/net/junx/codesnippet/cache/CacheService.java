@@ -1,5 +1,5 @@
 
-package net.junx.codesnippets.cache;
+package net.junx.codesnippet.cache;
 
 /**
  * @author  junX yangwenjun@jianzhimao.com

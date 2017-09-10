@@ -7,7 +7,7 @@
  * Copyright (c) 2016, 广州九尾信息科技有限公司 All Rights Reserved.
  *
  */
-package net.junx.codesnippets.cache;
+package net.junx.codesnippet.cache;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

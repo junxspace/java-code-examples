@@ -5,7 +5,7 @@
  * @Date         : Dec 11, 20168:06:13 PM
  * @Author       : junX (junxspace@hotmail.com)
  */
-package net.junx.codesnippets;
+package net.junx.codesnippet.proxy;
 
 import java.lang.reflect.Method;
 

@@ -1,4 +1,4 @@
-package net.junx.codesnippets.cache;
+package net.junx.codesnippet.cache;
 
 import net.sf.cglib.proxy.MethodInterceptor;
 

@@ -5,7 +5,7 @@
  * @Date : Nov 8, 201610:49:23 AM
  * @Author : junX (junxspace@hotmail.com)
  */
-package net.junx.codesnippets;
+package net.junx.codesnippet.reflect;
 
 import java.lang.reflect.Field;
 

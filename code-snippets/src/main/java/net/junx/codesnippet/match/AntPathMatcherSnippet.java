@@ -6,7 +6,7 @@
  * Author       : junX / junxspace@hotmail.com
  *
  */
-package net.junx.codesnippets;
+package net.junx.codesnippet.match;
 
 import org.springframework.util.AntPathMatcher;
 import org.springframework.util.PathMatcher;

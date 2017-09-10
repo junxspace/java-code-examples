@@ -5,7 +5,7 @@
  * @Date : Nov 8, 201610:28:42 AM
  * @Author : junX (junxspace@hotmail.com)
  */
-package net.junx.codesnippets;
+package net.junx.codesnippet.db;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
